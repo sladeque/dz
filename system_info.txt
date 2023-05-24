@@ -1,0 +1,6 @@
+System: Windows
+Node Name: DESKTOP-RGKH804
+Release: 10
+Version: 10.0.19044
+Machine: AMD64
+Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
